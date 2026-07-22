@@ -1,0 +1,16 @@
+Feature,Importance
+num__Days for shipment (scheduled),0.0686736327319597
+cat__Shipping Mode_Standard Class,0.06036518119852714
+cat__Shipping Mode_First Class,0.04578508840714532
+num__Latitude,0.029622580590435175
+num__Longitude,0.02766888730444475
+num__Benefit per order,0.02556254808589911
+num__Order Profit Per Order,0.025431048943210733
+num__Order Item Profit Ratio,0.023254353663785768
+num__Sales per customer,0.022434042849212497
+num__Order Item Total,0.0223523519378497
+num__Order Item Discount,0.021980793351572592
+num__Order Item Discount Rate,0.019589586304565074
+cat__Shipping Mode_Second Class,0.019223198927759498
+num__Sales,0.01348083068140926
+num__Product Price,0.010295859076973491
