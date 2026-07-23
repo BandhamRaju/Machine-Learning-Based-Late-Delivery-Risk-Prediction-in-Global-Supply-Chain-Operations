@@ -14,25 +14,27 @@
 
 ### 🚀 Live Streamlit Dashboard
 
-[Streamlit Web Application](YOUR_STREAMLIT_LINK)
+> Coming Soon (Will be updated after Streamlit deployment.)
 
 ---
 
-## 📂 Dataset Downloads
+## 📂 Dataset & Model Downloads
 
-### Dataset Files
+| Resource | Download Link |
+|----------|--------------|
+| APL Logistics Dataset (Original Dataset) | https://drive.google.com/file/d/1i7nnNwKP3P9PwuGZP5Do7jx1cBfgM47a/view?usp=drive_link |
+| Cleaned Supply Chain Dataset | https://drive.google.com/file/d/1awjAJyROUlLLfjT5cu4ptvN3A07nDg-h/view?usp=drive_link |
+| Random Forest Model (.pkl) | https://drive.google.com/file/d/1OQsEqjJrqw4Aa0gsXuprlwlvKaDpq1pI/view?usp=drive_link |
 
-| Dataset | Download Link |
-|---------|---------------|
-| APL Logistics Dataset | DOWNLOAD LINK |
-| Cleaned Supply Chain Dataset | DOWNLOAD LINK |
-| Random Forest Model | DOWNLOAD LINK |
-
-> Note:
+> **Note**
 >
-> Large files are hosted on Google Drive because of GitHub's file size limitations.
+> - Large datasets and trained Machine Learning models are hosted on Google Drive because of GitHub's file size limitations.
+> - Download the required files before running the project locally.
+> - Place both datasets inside the `data/` folder.
+> - Place the Random Forest model file inside the `models/` folder.
+> - The application is configured to automatically access these resources when required.
 
----
+------
 ## 📌 Project Overview
 
 Late deliveries significantly impact customer satisfaction, operational efficiency, and supply chain performance. This project leverages Machine Learning techniques to predict delivery delays and identify the key factors influencing delivery risks.
