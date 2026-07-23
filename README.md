@@ -72,7 +72,7 @@ Organizations require intelligent systems capable of identifying potential deliv
 | Records | ~180,000+ |
 | Features | Customer, Product, Sales, Shipping and Delivery Information |
 | Target Variable | Late Delivery Risk |
-| Project Type | Classification & Business Intelligence |
+| Project Type | Data Science and Machine Learning |
 
 ### Dataset Includes
 
