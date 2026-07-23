@@ -10,6 +10,29 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ---
+## 🌐 Live Demo Links
+
+### 🚀 Live Streamlit Dashboard
+
+[Streamlit Web Application](YOUR_STREAMLIT_LINK)
+
+---
+
+## 📂 Dataset Downloads
+
+### Dataset Files
+
+| Dataset | Download Link |
+|---------|---------------|
+| APL Logistics Dataset | DOWNLOAD LINK |
+| Cleaned Supply Chain Dataset | DOWNLOAD LINK |
+| Random Forest Model | DOWNLOAD LINK |
+
+> Note:
+>
+> Large files are hosted on Google Drive because of GitHub's file size limitations.
+
+---
 ## 📌 Project Overview
 
 Late deliveries significantly impact customer satisfaction, operational efficiency, and supply chain performance. This project leverages Machine Learning techniques to predict delivery delays and identify the key factors influencing delivery risks.
