@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+*.pyc
+*.pyo
+*.pyd
+
+.DS_Store
+Thumbs.db
+
+.streamlit/
+
+data/APL_Logistics.csv
+data/cleaned_supply_chain_dataset.csv
+
+models/random_forest.pkl
