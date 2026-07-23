@@ -469,6 +469,38 @@ Supply-Chain-Late-Delivery-Risk-Prediction
 ---
 ## ⚙️ Installation & Usage Guide
 
+## ⚠️ Important Notice
+
+Some large datasets and trained Machine Learning model files are intentionally excluded from this repository due to GitHub file size limitations.
+
+Before running the project, please place the following files in their respective directories.
+
+### Dataset Files
+
+Place these files inside:
+
+> `data/`
+
+```text
+APL_Logistics.csv
+cleaned_supply_chain_dataset.csv
+```
+
+### Trained Model Files
+
+Place these files inside:
+
+> `models/`
+
+```text
+random_forest.pkl
+logistic_regression.pkl
+gradient_boosting.pkl
+preprocessor.pkl
+```
+
+> **Note:** The project will not execute successfully unless the required datasets and model files are available in their respective folders.
+
 ### 1. Clone the Repository
 
 ```bash
