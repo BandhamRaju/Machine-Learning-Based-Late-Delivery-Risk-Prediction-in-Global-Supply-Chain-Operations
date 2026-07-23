@@ -14,7 +14,7 @@
 
 ### 🚀 Live Streamlit Dashboard
 
-[*Click Here*](https://global-supply-chain-risk-intelligence.streamlit.app/Risk_Prediction)
+[*Click Here to GO LIVE*](https://global-supply-chain-risk-intelligence.streamlit.app/Risk_Prediction)
 
 ---
 
