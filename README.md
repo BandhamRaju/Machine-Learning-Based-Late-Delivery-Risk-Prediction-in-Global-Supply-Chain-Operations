@@ -14,7 +14,7 @@
 
 ### 🚀 Live Streamlit Dashboard
 
-> Coming Soon (Will be updated after Streamlit deployment.)
+[*Click Here*](https://global-supply-chain-risk-intelligence.streamlit.app/Risk_Prediction)
 
 ---
 
