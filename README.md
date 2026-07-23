@@ -22,9 +22,9 @@
 
 | Resource | Download Link |
 |----------|--------------|
-| APL Logistics Dataset (Original Dataset) | https://drive.google.com/file/d/1i7nnNwKP3P9PwuGZP5Do7jx1cBfgM47a/view?usp=drive_link |
-| Cleaned Supply Chain Dataset | https://drive.google.com/file/d/1awjAJyROUlLLfjT5cu4ptvN3A07nDg-h/view?usp=drive_link |
-| Random Forest Model (.pkl) | https://drive.google.com/file/d/1OQsEqjJrqw4Aa0gsXuprlwlvKaDpq1pI/view?usp=drive_link |
+| APL Logistics Dataset (Original Dataset) | [*Download Link*](https://drive.google.com/file/d/1i7nnNwKP3P9PwuGZP5Do7jx1cBfgM47a/view?usp=drive_link) |
+| Cleaned Supply Chain Dataset | [*Download Link*](https://drive.google.com/file/d/1awjAJyROUlLLfjT5cu4ptvN3A07nDg-h/view?usp=drive_link) |
+| Random Forest Model (.pkl) | [*Download Link*](https://drive.google.com/file/d/1OQsEqjJrqw4Aa0gsXuprlwlvKaDpq1pI/view?usp=drive_link) |
 
 > **Note**
 >
